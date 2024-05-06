@@ -15,5 +15,5 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Testing Task
-        run: mvn -B test --file Test.txt 
+        run: mvn -B test --file pom.xml 
         
