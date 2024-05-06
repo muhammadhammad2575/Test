@@ -1,2 +1,8 @@
-Hi
-Welcome to the Pakistan.
+<project>
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.company</groupId>
+<artifactId>myProject</artifactId>
+<version>2024.05.06</version>
+
+</project>
